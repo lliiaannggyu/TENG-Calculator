@@ -79,7 +79,7 @@ app/src/main/java/com/tengwear/jisuanqi/
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/<你的用户名>/jisuanqi2.git
+   git clone https://github.com/lliiaannggyu/jisuanqi2.git
    cd jisuanqi2
    ```
 
