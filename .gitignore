@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+# 忽略整个 .idea 目录，避免泄露本地 SDK 路径 / 用户名等（隐私安全）
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# ===== 发布相关（切勿提交） =====
+*.keystore
+*.jks
+*.apk
+*.aab
+
+# ===== Kotlin / Gradle 缓存 =====
+.kotlin/
+
+# ===== 工具 / 内部数据（不公开） =====
+.workbuddy-ai/
+app/release/
